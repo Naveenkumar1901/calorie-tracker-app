@@ -1,0 +1,31 @@
+[
+    {
+      "title": "Contacts",
+      "url": "/crm/contacts"
+    },
+    {
+      "title": "Companies",
+      "url": "/crm/companies"
+    },
+    {
+      "title": "Deals",
+      "url": "/crm/deals"
+    },
+    {
+      "title": "Tickets",
+      "url": "/crm/tickets"
+    },
+    {
+      "title": "Sales Order",
+      "url": "/sales/sales-order"
+    },
+    {
+      "title": "Sales Quotation",
+      "url": "/sales/sales-quotation"
+    },
+    {
+      "title": "Equipment Builder",
+      "url": "/equipment/builder"
+    }
+  ]
+  
